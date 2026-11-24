@@ -24,3 +24,9 @@ h3:hover {
 p {
     font-family: "Grenze", sans-serif;
 }
+
+.maps {
+    /* when you size an iframe, you have to do both height and width */
+    height: 50vw;
+    width: 30vw;
+}
